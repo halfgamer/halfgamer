@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halfgamer
 - 👀 I’m interested in ... coding,playing video games
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python+,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
